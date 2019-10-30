@@ -25,9 +25,9 @@ This project is mostly for fun, but if I do decide to learn React, this is the k
 
 The app is intended to include random elements, and be played in a persistent universe. When a player travels to an unexplored system, the app generates the celestial phenomena from a series of rules. This is then stored along with who discovered it. 
 
-The app also includes random encounters when travelling from location to location. Supports multiple locations within a solar system at either planets, dust, ice or asteroid fields. There would be a defined "core" civilised space with "frontier" outer reaches and finally the unexplored region.
+The app also includes random encounters when travelling from location to location. Supports multiple locations within a solar system at either planets, suns, dust, gas, ice or asteroid fields. There would be a defined "core" civilised space with "frontier" outer reaches and finally the unexplored region. There would be multiple factions of different types within the game. They would react to user actions that affect their property and allies.
 
-Players have a vessel with capabilities, can perform tasks like mining, piracy, trade and exploration.
+Players have a vessel with capabilities. They can perform tasks like mining, piracy, trade, bounty-hunting and exploration.
 
 I may adopt an aging mechanism, so each action they take has a cost of time and the aim of the game is to achieve as much as they can within their pilots career. If they are captured by pirates (and survive) they will lose time as they would if they are inprisoned by the authorities. At the end of their career the app provides a list of their achievements. This game mode though may be optional in addition to a Open play mode where the player just plays their way.
 
